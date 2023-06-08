@@ -1,0 +1,106 @@
+{
+    "translation": {
+        "home": "Home",
+        "report": "Report",
+        "history": "History",
+        "settings": "Settings",
+        "add_transfer": "Add Transfer",
+        "profile": "Profile",
+        "basic_wallet": "Basic wallet",
+        "piggy_bank": "Piggy Bank",
+        
+        "normal_member": "Normal member",
+        "vip_member": "VIP member",
+        "total_balance": "Total balance",
+        "transaction_wallets": "Transaction Wallets",
+        "personal_achievements": "Personal Achievements",
+        "news": "News",
+
+        "add": "Add",
+        "save": "Save",
+
+        "transfer_screen": {
+            "amount": "Amount",
+            "group": "Group",
+            "description": "Description",
+            "date": "Date",
+            "wallet": "Wallet",
+            "notification": "Notification",
+
+            "select_category": "Select category",
+            "add_description": "Add description",
+            "input_category": "Input category",
+
+            "monthly_spending": "Monthly spending",
+            "eat_n_drink": "Eat and drink",
+            "transfer": "Transfer",
+            "bill": "Bill",
+            "necessary_spending": "Necessary spending",
+            "house_decoration": "House decoration",
+            "car_maintenance": "Car maintenance",
+            "health_examination": "Health examination",
+            "income": "Income",
+            "salary": "Salary",
+            "other_income": "Other income"
+        },
+
+        "settings_screen": {
+            "theme": "Theme",
+            "notification": "Notification",
+            "language": "Language",
+            "currency": "Currency",
+            "help": "Help",
+
+            "theme_goback": "< Set theme",
+            "language_goback": "< Set language",
+            "currency_goback": "< Set currency",
+
+            "light": "Light mode",
+            "dark": "Dark mode",
+
+            "en": "English",
+            "vi": "Vietnamese",
+
+            "vn_dong": "Vietnamese Dong",
+            "us_dollar": "US Dollar",
+            "uk_pound": "UK Pound",
+            "euro": "Euro",
+            "yuan": "Yuan",
+            "yen": "Yen"
+        },
+
+        "history_screen": {
+            "sort_by": "Sort by",
+            "wallet_a_z": "Wallet (A - Z)",
+            "wallet_z_a": "Wallet (Z - A)",
+            "latest_transaction": "Latest transaction",
+            "oldest_transaction": "Oldest transaction",
+            "largest_money_amount": "Largest money amount",
+            "smallest_money_amount": "Smallest money amount",
+            "no_transaction_warning": "Currently there is no transaction. You can add one by pressing a button with 'plus' symbol below"
+        },
+
+        "wallet_screen": {
+            "sort_by": "Sort by",
+            "total_balance": "Total balance",
+            "deposit": "+ Deposit",
+            "remove": "Remove",
+            "latest_transaction": "Latest transaction",
+            "oldest_transaction": "Oldest transaction",
+            "largest_money_amount": "Largest money amount",
+            "smallest_money_amount": "Smallest money amount",
+            "no_transaction_warning": "Currently there is no transaction. You can add one by pressing a button with 'plus' symbol",
+            "delete_warning_title": "Delete wallet warning",
+            "delete_warning_text": "Are you sure to delete this wallet permanently?",
+            "agree": "I agree",
+            "disagree": "Cancel"
+        },
+
+        "report_screen": {
+            "no_transaction_warning": "This wallet has no any transaction to report.",
+            "valid_date_alert": "Valid date",
+            "expense": "Expense",
+            "income": "Income"
+        } 
+    }
+}

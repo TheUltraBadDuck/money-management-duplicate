@@ -1,0 +1,20 @@
+{
+    "000": "general_transaction",
+
+    "ea1": "monthly_spending",
+    "ea2": "eat_n_drink",
+    "ea3": "rental",
+    "ea4": "bill",
+    "ea5": "event_spending",
+
+    "eb1": "necessary_spending",
+    "eb2": "house_decoration",
+    "eb3": "car_maintenance",
+    "eb4": "health_exam",
+
+    "ic1": "general_income",
+    "ic2": "salary",
+    "ic3": "other_income",
+
+    "+00": "add_category"
+}

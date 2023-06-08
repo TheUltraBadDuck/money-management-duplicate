@@ -1,0 +1,90 @@
+{
+    "0": {
+        "id": "000",
+        "name": "Wallet A",
+        "start_date": "2020-12-01",
+        "balance": 10000,
+        "transactions": [
+            {
+                "id": "0000001",
+                "note": "First transction",
+                "date": "2020-12-03T12:00Z",
+                "amount": -2000,
+                "description": "Electricity bill",
+                "remind": true,
+                "category": "ea4"
+            },
+            {
+                "id": "0000002",
+                "note": "Second transction",
+                "date": "2020-12-12T07:00Z",
+                "amount": -300,
+                "description": "John Doe's fee",
+                "remind": true,
+                "category": "ea1"
+            },
+            {
+                "id": "0000003",
+                "note": "Third transction",
+                "date": "2020-12-12T15:00Z",
+                "amount": -2000,
+                "description": "Fridge buying",
+                "remind": false,
+                "category": "eb1"
+            },
+            {
+                "id": "0000004",
+                "note": "Fourth transction",
+                "date": "2020-12-23T20:00Z",
+                "amount": -5000,
+                "description": "Christmas celebration",
+                "remind": true,
+                "category": "ea5"
+            },
+            {
+                "id": "0000005",
+                "note": "Fifth transction",
+                "date": "2020-12-26T20:00Z",
+                "amount": 2000,
+                "description": "Monthly salary",
+                "remind": false,
+                "category": "ic2"
+            },
+            {
+                "id": "0000006",
+                "note": "Sixth transction",
+                "date": "2020-12-27T20:00Z",
+                "amount": -2000,
+                "description": "House cleaning",
+                "remind": false,
+                "category": "eb2"
+            }
+        ]
+    },
+    "1": {
+        "id": "001",
+        "name": "Wallet B",
+        "start_date": "2020-12-10",
+        "balance": 1000,
+        "transactions": [
+            {
+                "id": "0010001",
+                "note": "First second wallet transaction",
+                "date": "2020-12-29T08:00Z",
+                "amount": -8000,
+                "description": "Buy a car",
+                "remind": true,
+                "category": "eb1"
+            }
+        ]
+    },
+    "2": {
+        "id": "002",
+        "name": "Wallet C",
+        "start_date": "2020-12-20",
+        "balance": 1000,
+        "transactions": {
+
+        }
+    }
+}

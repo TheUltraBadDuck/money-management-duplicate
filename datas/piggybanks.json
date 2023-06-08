@@ -1,0 +1,37 @@
+{
+    "0": {
+        "id": "000",
+        "name": "Piggy A",
+        "start_date": "2020-12-01",
+        "end_date": "2021-12-01",
+        "balance": 16000,
+        "goal_amount": 1000000,
+        "transactions": [
+            {
+                "id": "0000001",
+                "note": "Save money",
+                "date": "2020-12-12T10:00Z",
+                "amount": 8000,
+                "description": "Save money to piggy bank",
+                "remind": false
+            },
+            {
+                "id": "0000002",
+                "note": "Save money",
+                "date": "2020-12-27T07:00Z",
+                "amount": 8000,
+                "description": "Save money to piggy bank",
+                "remind": false
+            }
+        ]
+    },
+    "1": {
+        "id": "001",
+        "name": "Piggy B",
+        "start_date": "2020-12-20",
+        "balance": 0,
+        "transactions": [
+
+        ]
+    }
+}

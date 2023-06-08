@@ -1,0 +1,106 @@
+{
+    "translation": {
+        "home": "Trang chủ",
+        "report": "Báo cáo",
+        "history": "Lịch sử",
+        "settings": "Cài đặt",
+        "add_transfer": "Thêm giao dịch",
+        "profile": "Tài khoản",
+        "wallet": "Ví tiền",
+        "piggy_bank": "Ống heo",
+        
+        "normal_member": "Thành viên thường",
+        "vip_member": "Thành viên VIP",
+        "total_balance": "Tổng số dư",
+        "transaction_wallets": "Ví giao dịch",
+        "personal_achievements": "Thành tích cá nhân",
+        "news": "Tin tức",
+
+        "add": "Thêm",
+        "save": "Lưu",
+
+        "transfer_screen": {
+            "amount": "Số lượng tiền",
+            "group": "Nhóm",
+            "description": "Mô tả",
+            "date": "Ngày",
+            "wallet": "Ví tiền",
+            "notification": "Thông báo",
+
+            "select_category": "Chọn danh mục",
+            "add_description": "Miêu tả về giao dịch",
+            "input_category": "Nhập tên nhóm",
+            
+            "monthly_spending": "Chi tiêu hàng tháng",
+            "eat_n_drink": "Ăn uống",
+            "transfer": "Chuyển khoản",
+            "bill": "Phí / Hoá đơn",
+            "necessary_spending": "Chi tiêu cần thiết",
+            "house_decoration": "Trang trí nhà",
+            "car_maintenance": "Bảo trì xe",
+            "health_examination": "Kiểm tra sức khoẻ",
+            "income": "Thu nhập",
+            "salary": "Lương",
+            "other_income": "Thu nhập khác"
+        },
+
+        "settings_screen": {
+            "theme": "Nền",
+            "notification": "Thông báo",
+            "language": "Ngôn ngữ",
+            "currency": "Tiền tệ",
+            "help": "Giúp đỡ",
+            
+            "theme_goback": "< Chỉnh nền",
+            "language_goback": "< Chỉnh ngôn ngữ",
+            "currency_goback": "< Chỉnh tiền tệ",
+
+            "light": "Nền sáng",
+            "dark": "Nền tối",
+
+            "en": "Tiếng Anh",
+            "vi": "Tiếng Việt",
+
+            "vn_dong": "Việt Nam Đồng",
+            "us_dollar": "Dollar Mỹ",
+            "uk_pound": "Bảng Anh",
+            "euro": "Euro",
+            "yuan": "Nhân dân tệ",
+            "yen": "Yên"
+        },
+
+        "history_screen": {
+            "sort_by": "Sắp xếp theo",
+            "wallet_a_z": "Tên ví (A - Z)",
+            "wallet_z_a": "Tên ví (Z - A)",
+            "latest_transaction": "Ngày giao dịch gần nhất",
+            "oldest_transaction": "Ngày giao dịch cũ nhất",
+            "largest_money_amount": "Lượng tiền lớn nhất",
+            "smallest_money_amount": "Lượng tiền nhỏ nhất",
+            "no_transaction_warning": "Hiện tại chưa có giao dịch nào. Hãy thêm bằng cách sử dụng nút có dấu cộng ở dưới"
+        },
+
+        "wallet_screen": {
+            "sort_by": "Sắp xếp theo",
+            "total_balance": "Tổng số dư",
+            "deposit": "+ Thêm",
+            "remove": "Xoá ví",
+            "latest_transaction": "Ngày giao dịch gần nhất",
+            "oldest_transaction": "Ngày giao dịch cũ nhất",
+            "largest_money_amount": "Lượng tiền lớn nhất",
+            "smallest_money_amount": "Lượng tiền nhỏ nhất",
+            "no_transaction_warning": "Hiện tại chưa có giao dịch nào. Hãy thêm bằng cách sử dụng nút có dấu cộng",
+            "delete_warning_title": "Cảnh báo xoá ví",
+            "delete_warning_text": "Bạn có muốn xoá ví này vĩnh viễn không?",
+            "agree": "Tôi đồng ý",
+            "disagree": "Từ chối"
+        },
+
+        "report_screen": {
+            "no_transaction_warning": "Ví này không có bất kỳ giao dịch nào để báo cáo",
+            "valid_date_alert": "Ngày hợp lệ",
+            "expense": "Tiền chi",
+            "income": "Tiền thu"
+        } 
+    }
+}
